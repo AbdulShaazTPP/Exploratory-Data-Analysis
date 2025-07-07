@@ -1,0 +1,18 @@
+Tools Used : Python, VS Code, Pandas, MS Excel, MAtplotlib, Seaborn, Plotly
+
+Insights
+
+1) Total patients is 40235
+2) There are 583 patients of the age 18
+3) The blood group A+ has been daignosed the most
+4) Most of the A+ has been given Aspirin Medcine, A- with Paracetamol, AB+ with Lipitor, AB- with Ibuprofen, B+ with Lipitor, B- with Ibuprofen, O+ with Lipitor, O- with Ibuprofin
+5) Medical Condition for Each blood Group (maximum count of 
+  A+ has Diabetes
+  A- has asthma
+  B+ has Cancer
+  B- has Hyper Tension
+  AB+ has Hypertension
+  AB- has Arthritis
+  O+ has Arthritis
+  O- has Asthma
+6) 
