@@ -1,0 +1,21 @@
+Tools Used : Python, Pandas, Matplotlib, Seaborn. Plotly
+
+Objective : To analyse and detect cancer based on gender and country and cancer types
+
+Insights
+1) People with cancer can only survive an average of 5 years
+2) Most amount cancer in seen in people between the age of 79 - 90
+3) Males have found to be having cancer than women
+4) Most occured cancer is the colon cancer
+5) Lifestyle and environmental factors (Smoking, Alcohol, Pollution) and Genetic Risk are the main contributors to severity.
+   There's no strong correlation between severity and survival years or age.
+   Cost and severity are inversely related, which could point to inequities in treatment or healthcare access.
+6) Every cancer is of same severity
+   Severity is generally moderate (centered around 5) across all cancer types.
+   No single cancer type appears drastically more or less severe in this data.
+   Outliers indicate exceptions, but they are evenly distributed across types.
+   This uniformity might suggest that "Target Severity Score" is not cancer-type-specific or may be influenced by other factors like stage, age, or treatment type.
+7) Treatment cost does not strongly correlate with cancer stage.
+   Patients at early stages (e.g., Stage 0, I) might still face high costs, possibly due to aggressive early treatment, diagnosis procedures, or insurance variation.
+   Advanced stages (e.g., Stage IV) don’t show distinctly higher costs — contrary to what might be expected.
+8) Australia is the country with most of amount of cancer recorded
